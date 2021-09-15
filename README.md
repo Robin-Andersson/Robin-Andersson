@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Robin-Andersson
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Robin
+- 👀 I’m interested in gaming, python, blender and other stuff I guess
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me robmatand@gmail.com
